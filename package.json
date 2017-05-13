@@ -1,0 +1,18 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "An Amazon-like storefront made with node.js and MySQL.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Susan Allen",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.8.0",
+    "dotenv": "^4.0.0",
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0",
+    "node-mysql": "^0.4.2"
+  }
+}
